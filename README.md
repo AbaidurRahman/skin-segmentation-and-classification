@@ -1,5 +1,3 @@
-Here’s a preliminary README for your project based on the observed notebook:
-
 ---
 
 # ISIC 2024 Skin Cancer Detection Challenge
